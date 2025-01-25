@@ -89,7 +89,7 @@ const text = new Typed(".multiple-text", {
   strings: [
     "Frontend Developer_",
     "Web Designer_",
-    "Also learning Java as a Backend_",
+    "Learning NodeJs for Backend_",
   ],
   typeSpeed: 70,
   backSpeed: 70,
